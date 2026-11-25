@@ -1,40 +1,38 @@
-# Networking Lab Log
+# OS Installation and Maintenance Lab Log
 
 ## Session record
 
 - Date:
-- Device:
-- Connection type: Wi-Fi / Ethernet
-- Network used: Home / Lab / Other (do not disclose private network name)
+- Device make/model:
+- Windows edition/version:
+- Activity performed:
 
-## Configuration (redact sensitive details)
+## System information
 
-- IPv4 address (private address only, if safe to share):
-- Subnet mask:
-- Default gateway:
-- DNS server(s):
+- Processor:
+- Installed RAM:
+- System type:
+- Available storage:
+- Windows update status:
 
-## Test results
+## Checks performed
 
-| Test | Command | Result | Interpretation |
+| Area | What I checked | Observation | Action (if any) |
 |---|---|---|---|
-| Local TCP/IP stack | `ping 127.0.0.1` | | |
-| Default gateway | `ping <gateway>` | | |
-| External IP | `ping 8.8.8.8` | | |
-| DNS/domain | `ping google.com` | | |
-| Route | `tracert google.com` | | |
+| Device Manager | | | |
+| Disk Management (view-only) | | | |
+| Storage | | | |
+| Windows Update | | | |
+| Startup apps | | | |
 
-## Troubleshooting scenario
-
-- Symptom:
-- Checks performed:
-- Finding:
-- Action taken (with permission):
-- Retest result:
-
-## Evidence and learning
+## Evidence
 
 - Screenshot filenames:
-- Sensitive information redacted: Yes / No
+- Private information removed: Yes / No
+
+## Learning and next steps
+
 - What I learned:
+- Issues noticed:
+- What I did not change:
 - Next activity:
